@@ -1,2 +1,0 @@
-# doremom-web
-doremom web
